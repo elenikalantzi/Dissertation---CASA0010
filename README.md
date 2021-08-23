@@ -11,7 +11,7 @@ This workbook contains the main code that runs in order to generate the model re
 This workbook reads all the data used to build the model.<br />
 
 3) **quantlhmodel.py** <br />
-This workbook is based on Lakshmanan's and Hansen's retail model and contains the fuctions used as a base for the main code.<br />
+This workbook is based on Lakshmanan's and Hansen's retail model and contains the functions used as a base for the main code.<br />
 
 4) **analytics.py** <br />
 This workbook produces analytic data for debugging and visualisation.<br />
