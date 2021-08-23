@@ -9,11 +9,15 @@ This workbook contains the main code that runs in order to generate the model re
 
 2) **globals.py** <br />
 This workbook reads all the data used to build the model.<br />
-3) **quantlhmodel.py**
+
+3) **quantlhmodel.py** <br />
 This workbook is based on Lakshmanan's and Hansen's retail model and contains the fuctions used as a base for the main code.<br />
-4) **analytics.py**
+
+4) **analytics.py** <br />
 This workbook produces analytic data for debugging and visualisation.<br />
-5) **LUTI_API.py**
+
+5) **LUTI_API.py** <br />
 This workbook contains accessor functions for getting probabilities of trips from workplaces to residential zones and creates Geojson files with flows for visualisation.<br />
-6) **utils.py**
+
+6) **utils.py** <br />
 This workbook contains data building utilities.<br />
