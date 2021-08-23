@@ -5,8 +5,8 @@ This GitHub repository contains the code used for the dissertation of the MSc in
 **Note:** This repository does not include the data used in the model as it is not open data and must not be publicly available. <br />
 ### File Description
 1) **main.py** <br />
-This workbook contains the main code that runs in order to generate the model results. 
-<br />
+This workbook contains the main code that runs in order to generate the model results. <br />
+
 2) **globals.py** <br />
 This workbook reads all the data used to build the model.<br />
 3) **quantlhmodel.py**
